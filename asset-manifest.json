@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-register/static/css/main.0592b25f.css",
+    "main.js": "/my-register/static/js/main.b42608df.js",
+    "static/media/132472553-seamless-loop-video-summer-bea.mp4": "/my-register/static/media/132472553-seamless-loop-video-summer-bea.0e52611240e8bfbbe604.mp4",
+    "index.html": "/my-register/index.html",
+    "main.0592b25f.css.map": "/my-register/static/css/main.0592b25f.css.map",
+    "main.b42608df.js.map": "/my-register/static/js/main.b42608df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0592b25f.css",
+    "static/js/main.b42608df.js"
+  ]
+}
