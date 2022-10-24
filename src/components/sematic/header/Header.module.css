@@ -1,0 +1,20 @@
+.header {
+    padding: 2.5rem;
+    background-color: #192A51;
+}
+.header ul li {
+    list-style: none;
+}
+.header ul li button {
+    width: 12rem;
+    height: 2rem;
+    border: .1px solid #ccc;
+    background-color: #D5C6E0;
+    border-radius: 3px;
+    font-size: 1rem;
+}
+.header ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

@@ -1,0 +1,43 @@
+.Lists {
+    display: grid;
+    grid-template-rows: repeat(5,1fr);
+    align-items: center;
+    justify-content: center;
+    /* background-color: red; */
+    width: 60%;
+    margin: 0 auto;
+    padding: 50px 0;
+    gap: 40px;
+    text-align: left
+}
+
+
+.input input {
+  width: 25rem;
+  height: 35px;
+  display: block;
+  padding: 0 5px;
+  font-size: 17px;
+  outline: none;
+  background-color: #f5e6e890;
+  border: .1px solid #ccc;
+  border-radius: 3px;
+}
+.input:nth-child(5) input:nth-child(2)  {
+    width: 20px;
+    background-color: #f5e6e890;
+}
+.input:nth-child(6) input:nth-child(2) {
+    width: 20px;
+    background-color: #f5e6e890;
+}
+
+.Button {
+    height: 35px;
+    font-size: 16px;
+    background-color: #f5e6e890;
+    border: .1px solid #ccc;
+    border-radius: 3px;
+}
+
+
